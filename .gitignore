@@ -45,7 +45,3 @@ memory/*.db-shm
 memory/*.db-wal
 memory/*.sqlite
 memory/*.sqlite3
-
-memory/checkpoints.db-shm
-memory/checkpoints.db-wal
-memory/customer_memory.py
