@@ -1,0 +1,11 @@
+TechNova Payment FAQ
+
+TechNova accepts major credit cards, debit cards,
+UPI, and supported digital payment methods.
+
+Payment must be successfully completed before an order
+can be processed.
+
+If payment was deducted but the order was not created,
+customers should contact support with their transaction
+details.

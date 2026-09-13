@@ -1,0 +1,51 @@
+# Environment
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Chroma
+chroma/
+chroma_db/
+data/chroma/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary files
+*.tmp
+*.bak
+
+memory/*.db
+memory/*.db-shm
+memory/*.db-wal
+memory/*.sqlite
+memory/*.sqlite3
+
+memory/checkpoints.db-shm
+memory/checkpoints.db-wal
+memory/customer_memory.py

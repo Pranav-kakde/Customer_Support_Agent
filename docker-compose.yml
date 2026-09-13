@@ -1,0 +1,15 @@
+services:
+  customer-support-agent:
+    build: .
+    container_name: technova-customer-support
+    ports:
+      - "8501:8501"
+
+    env_file:
+      - .env
+
+    volumes:
+      - ./memory:/app/memory
+      - ./data:/app/data
+
+    restart: unless-stopped

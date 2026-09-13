@@ -1,0 +1,12 @@
+streamlit
+google-genai
+python-dotenv
+
+langchain
+langchain-community
+langchain-google-genai
+langchain-chroma
+langchain-text-splitters
+langgraph-checkpoint-sqlite
+
+chromadb

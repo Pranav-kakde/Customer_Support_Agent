@@ -1,0 +1,11 @@
+TechNova Basic Troubleshooting Guide
+
+If a product does not turn on:
+
+1. Check that the device is properly connected to power.
+2. Try a different compatible power outlet.
+3. Check whether the power cable is damaged.
+4. Restart the device if possible.
+
+If the problem continues after these steps, contact
+TechNova customer support.

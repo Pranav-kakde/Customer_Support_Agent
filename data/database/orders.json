@@ -1,0 +1,26 @@
+[
+    {
+        "order_id": "TN1001",
+        "customer_id": "C001",
+        "product": "TechNova Wireless Headphones",
+        "status": "Shipped",
+        "tracking_number": "TRK987654",
+        "estimated_delivery": "2026-09-03"
+    },
+    {
+        "order_id": "TN1002",
+        "customer_id": "C002",
+        "product": "TechNova Smart Watch",
+        "status": "Processing",
+        "tracking_number": null,
+        "estimated_delivery": "2026-09-05"
+    },
+    {
+        "order_id": "TN1003",
+        "customer_id": "C003",
+        "product": "TechNova Bluetooth Speaker",
+        "status": "Delivered",
+        "tracking_number": "TRK123456",
+        "estimated_delivery": "2026-08-28"
+    }
+]
